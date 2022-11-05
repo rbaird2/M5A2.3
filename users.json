@@ -1,0 +1,27 @@
+[
+    {
+        "fullName": "Sponge Bob",
+        "email": "sb@sea.com",
+        "password": "password"
+    },
+    {
+        "fullName": "Patrick Starfish",
+        "email": "ps@sea.com",
+        "password": "password"
+    },
+    {
+        "fullName": "Sandy",
+        "email": "sandy@sea.com",
+        "password": "password"
+    },
+    {
+        "fullName": "Squidward",
+        "email": "squid@sea.com",
+        "password": "password"
+    },
+    {
+        "fullName": "Mr. Crabbs",
+        "email": "crab@sea.com",
+        "password": "password"
+    }
+]
